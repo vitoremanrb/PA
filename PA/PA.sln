@@ -9,11 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula_19_09_2023", "Aula_19_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula_26_09_2023", "Aula_26_09_2023\Aula_26_09_2023.csproj", "{FF5E22D0-CC20-45DE-A9F8-8E6771D1790D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercício-1 05_10_2023", "Exercício-1 05_10_2023\Exercício-1 05_10_2023.csproj", "{96ED9A19-6FF5-41CA-9AD0-EB128EF4E87E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercício-1 05_10_2023", "Exercício-1 05_10_2023\Exercício-1 05_10_2023.csproj", "{96ED9A19-6FF5-41CA-9AD0-EB128EF4E87E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercício-2 05_10_2023", "Exercício-2 05_10_2023\Exercício-2 05_10_2023.csproj", "{2B85A7BE-AD3C-469A-AC5E-FC49DB2D5F56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercício-2 05_10_2023", "Exercício-2 05_10_2023\Exercício-2 05_10_2023.csproj", "{2B85A7BE-AD3C-469A-AC5E-FC49DB2D5F56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercício - 3 05_10_2023", "Exercício - 3 05_10_2023\Exercício - 3 05_10_2023.csproj", "{EC3C2553-0B60-4754-9645-D630E9F79D1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercício - 3 05_10_2023", "Exercício - 3 05_10_2023\Exercício - 3 05_10_2023.csproj", "{EC3C2553-0B60-4754-9645-D630E9F79D1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula_17_10_2023", "Aula_17_10_2023\Aula_17_10_2023.csproj", "{6296DB87-D3D7-40E3-BDA2-70C7BF133C13}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{EC3C2553-0B60-4754-9645-D630E9F79D1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC3C2553-0B60-4754-9645-D630E9F79D1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC3C2553-0B60-4754-9645-D630E9F79D1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6296DB87-D3D7-40E3-BDA2-70C7BF133C13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6296DB87-D3D7-40E3-BDA2-70C7BF133C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6296DB87-D3D7-40E3-BDA2-70C7BF133C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6296DB87-D3D7-40E3-BDA2-70C7BF133C13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
